@@ -1,0 +1,9 @@
+train: C:/Users/ethan/JupyterEnv/HandDetection2/data/images/test
+val: C:/Users/ethan/JupyterEnv/HandDetection2/data/images/val/
+test: C:/Users/ethan/JupyterEnv/HandDetection2/data/images/test/
+
+# number of classes
+nc: 1
+
+# class names
+names: ['hand']
